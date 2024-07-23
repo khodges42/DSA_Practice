@@ -1,10 +1,4 @@
-# Data Structures and Algorithms Practice
-
-Welcome to the Data Structures and Algorithms Practice repository! This repository contains various implementations of data structures, algorithms, and machine learning techniques for educational purposes and practice.
-
-## ML Algorithms
-
-The `ML` folder includes implementations of several machine learning algorithms. Below is an overview of each algorithm and when to use them:
+# When to use?
 
 ### Decision Tree
 
